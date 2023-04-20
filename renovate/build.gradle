@@ -25,6 +25,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-jersey'
 	implementation 'org.springframework.boot:spring-boot-starter-web-services'
 	implementation 'org.springframework:spring-webflux:5.2.9.RELEASE'
+	implementation 'org.eclipse.jetty:jetty-io:9.3.0.M0'
 	implementation 'com.google.guava:guava:22.0'
 	implementation 'com.google.guava:guava:25.1-jre'
 	compileOnly 'org.projectlombok:lombok'
