@@ -1,7 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "timezone": "America/Los_Angeles",
-  "extends": ["local>myorgname/.github:renovate-config"],
   "major": {
     "dependencyDashboardApproval": true
   }
