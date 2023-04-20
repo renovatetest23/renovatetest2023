@@ -92,7 +92,7 @@
     "assignAutomerge": {
       "description": "Assign reviewers and assignees even if the PR is to be automerged.",
       "type": "boolean",
-      "default": false
+      "default": true
     },
     "assignees": {
       "description": "Assignees for Pull Request (either username or email address depending on the platform).",
