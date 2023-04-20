@@ -1,6 +1,6 @@
 {
   "title": "JSON schema for Renovate config files (https://renovatebot.com/)",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["config:base", ":dependencyDashboard"],
   "type": "object",
   "properties": {
