@@ -115,7 +115,7 @@
     "autoApprove": {
       "description": "Set to `true` to automatically approve PRs.",
       "type": "boolean",
-      "default": false
+      "default": true
     },
     "autoReplaceGlobalMatch": {
       "description": "Control whether replacement regular expressions are global matches or only the first match.",
@@ -125,7 +125,7 @@
     "autodiscover": {
       "description": "Autodiscover all repositories.",
       "type": "boolean",
-      "default": false
+      "default":false
     },
     "autodiscoverFilter": {
       "description": "Filter the list of autodiscovered repositories.",
@@ -145,7 +145,7 @@
     "automerge": {
       "description": "Whether to automerge branches/PRs automatically, without human intervention.",
       "type": "boolean",
-      "default": false
+      "default": true
     },
     "automergeComment": {
       "description": "PR comment to add to trigger automerge. Only used if `automergeType=pr-comment`.",
