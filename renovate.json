@@ -15,11 +15,5 @@
   },
   "prHeader":"renovatetest23Teastheader",
   "assignees": ["renovatetest23"],
-  "labels": ["dependencies-testlabel"],
-  "packageeRules": [
-  "matchPackagePatterns": ["gradle"],
-  "labels": ["gradle-testlable"]
-  ]
-  
-  
+  "labels": ["dependencies-testlabel"]
 }
