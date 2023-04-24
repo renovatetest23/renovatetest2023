@@ -12,5 +12,13 @@
   "lockFileMaintenance": {
     "enabled": true,
     "automerge": true
-  }
+  },
+  "prHeader":"renovatetest23Teastheader",
+  "assignees": ["renovatetest23"],
+  "labels": ["dependencies-testlabel"],
+  "packageeRules": [
+  "matchPackagePatterns": ["gradle"],
+  "labels": ["gradle-testlable"]
+  ]
+  
 }
