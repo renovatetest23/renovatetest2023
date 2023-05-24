@@ -26,7 +26,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web-services'
 	implementation 'org.springframework:spring-webflux:5.2.9.RELEASE'
 	implementation 'org.eclipse.jetty:jetty-io:9.3.0.M0'
-	implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.4.20-M2'
+	implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.9.0-Beta'
 	// https://mvnrepository.com/artifact/io.netty/netty-codec-http
 	implementation 'io.netty:netty-codec-http:4.1.54.Final'
 	implementation 'com.google.guava:guava:22.0'
